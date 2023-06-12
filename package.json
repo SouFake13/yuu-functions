@@ -1,0 +1,19 @@
+{
+  "name": "yuu-functions",
+  "version": "1.0.0",
+  "description": "Functions of my bot :3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouFake13/yuu-functions.git"
+  },
+  "author": "FakezinLR#9359",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouFake13/yuu-functions/issues"
+  },
+  "homepage": "https://github.com/SouFake13/yuu-functions#readme"
+}
